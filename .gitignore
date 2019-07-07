@@ -1,0 +1,6 @@
+.env
+logs/
+.nyc_output/
+.sonarlint/
+coverage/
+node_modules/
